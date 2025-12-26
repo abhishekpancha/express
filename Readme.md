@@ -10,7 +10,7 @@
 - [Installation](#installation)
 - [Features](#features)
 - [Docs \& Community](#docs--community)
-- [Quick Start](#quick-start)
+- [Quick Start](#quick-start) , jdnjndjnssnjd
 - [Philosophy](#philosophy)
 - [Examples](#examples)
 - [Contributing](#contributing)
